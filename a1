@@ -2,5 +2,6 @@ main
 {
 void static 
 print.output
+print log screen 
 }
 
